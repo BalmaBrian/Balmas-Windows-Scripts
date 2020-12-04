@@ -1,4 +1,4 @@
-# BalmaBrian's Window Scritps
+# BalmaBrian's Windows Scritps
 
 Scripts I uses everyday in PowerShell and command line on a windows system. Alot of my scripts are so I can deploy docker conatiners for coding enviorments.
 
