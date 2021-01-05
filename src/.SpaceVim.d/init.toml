@@ -1,0 +1,51 @@
+[options]
+    colorscheme = "one"
+    colorscheme_bg = "dark"
+    enable_guicolors = true
+    statusline_separator = "nil"
+    statusline_iseparator = "bar"
+    buffer_index_type = 4
+    windows_index_type = 3
+    enable_tabline_filetype_icon = true
+    enable_statusline_mode = false
+    statusline_unicode_symbols = false
+    vimcompatible = true
+    statusline_separator = "nil"
+    project_rooter_outermost = false
+
+# Enable autocomplete layer
+[[layers]]
+name = 'autocomplete'
+auto_completion_return_key_behavior = "complete"
+auto_completion_tab_key_behavior = "smart"
+
+[[layers]]
+name = 'shell'
+default_position = 'bottom'
+default_height = 25
+
+[[layers]]
+name = 'lang#java'
+enable = true
+format_on_save = true
+
+[[layers]]
+name = 'lang#javascript'
+enable = true
+format_on_save = true
+
+[[layers]]
+name = 'lang#python'
+enable = true
+format_on_save = true
+
+[[layers]]
+name = 'lang#typescript'
+enable = true
+format_on_save = true
+
+[[layers]]
+name = 'git'
+
+[[layers]]
+name = 'VersionControl'
